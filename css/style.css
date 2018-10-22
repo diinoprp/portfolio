@@ -9,6 +9,7 @@ body {
 header {
     margin-top: 15px;
 }
+
 .text-muted {
     color: #7d97ad;
 }
@@ -49,7 +50,7 @@ header {
 }
 
 @media only screen and (max-width: 767px) {
-    #main-image{
+    #main-image {
         display: none;
     }
 }
